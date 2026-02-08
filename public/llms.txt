@@ -1,0 +1,87 @@
+# משי קלאס — Generative Engine Optimization Map
+
+> A רהיטים business.
+
+---
+
+## Pages
+
+### Home
+https://-54cc4d47.zappy5.app
+
+### Collections
+https://-54cc4d47.zappy5.app/collections
+
+### Craftsmanship
+https://-54cc4d47.zappy5.app/craftsmanship
+
+### Contact
+https://-54cc4d47.zappy5.app/contact
+
+### Products
+https://-54cc4d47.zappy5.app/products
+המוצרים שלנו - משי קלאס
+
+### Cart
+https://-54cc4d47.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-54cc4d47.zappy5.app/checkout
+תשלום
+
+### Login
+https://-54cc4d47.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-54cc4d47.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-54cc4d47.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-54cc4d47.zappy5.app/product/:slug
+פרטי המוצר - משי קלאס
+
+### Category
+https://-54cc4d47.zappy5.app/category/:slug
+מוצרים - משי קלאס
+
+## Legal & Policy
+
+### Privacy Policy
+https://-54cc4d47.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-54cc4d47.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-54cc4d47.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משי קלאס
+משי קלאס is a business in the רהיטים industry.
+
+## Target Audience
+- משפחות צעירות בעיר
+- בעלי בתים חדשים
+- מעצבי פנים
+
+## Industry
+רהיטים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-54cc4d47.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-54cc4d47.zappy5.app/robots.txt
